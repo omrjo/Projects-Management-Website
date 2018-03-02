@@ -1,0 +1,1 @@
+//here code to anlayse command rejects proposal  
